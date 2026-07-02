@@ -48,8 +48,7 @@
 
 ⸻
 
-📥 下载地址（电脑版）:
-[v2rayN
+📥 下载地址（电脑版）:[v2rayN
 .com](https://gofile.io/d/PDyN3q)
 
 📌 使用说明
