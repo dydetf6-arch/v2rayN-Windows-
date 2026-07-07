@@ -42,4 +42,4 @@ v2rayN 是一款面向 Windows 平台的开源网络代理客户端，基于 .NE
 .com](https://gofile.io/d/PDyN3q)
 
 👉 http
-下载完成后，解压即可运行（部分版本可能需要安装 .NET Runtime）
+下载完成后，解压即可运行（部分版本可能需要安装 .NET Runtime）。
