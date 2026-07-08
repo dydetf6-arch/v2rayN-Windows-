@@ -4,4 +4,5 @@ v2rayN 是一款适用于 Windows 的开源代理客户端，支持 V2Ray、Xray
 
 下载地址：v2rayN 电脑版下载
 
-下载地址： gofile.io/d/PDyN3q
+下载地址： [v2rayN
+.com](https://gofile.io/d/PDyN3q)
